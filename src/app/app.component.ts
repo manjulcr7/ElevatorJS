@@ -1,7 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import * as Elevator from 'elevator.js';
-// import {Elevator} from '../../node_modules/elevator.js/elevator.js';
-// declare function Elevator(): void;
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
